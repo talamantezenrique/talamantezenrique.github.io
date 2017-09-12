@@ -23,13 +23,13 @@ ul{
   border:0;
   padding-left: 20px;
   padding-right:20px;
-  color:#f41616;
+  color:#d1cccc;
 }
 
 .dark{
   padding:15px;
-  background:#f41616;
-  color:#f41616;
+  background:#d1cccc;
+  color:#d1cccc;
   margin-top:10px;
   margin-bottom:10px;
 }
