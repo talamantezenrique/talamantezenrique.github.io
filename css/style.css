@@ -44,7 +44,7 @@ header{
 }
 
 header a{
-  color:#f41616;
+  color:#fcfcfc;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
@@ -70,7 +70,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#fcfcfc;
   font-weight:bold;
 }
 
@@ -165,7 +165,7 @@ ul#services li{
 footer{
   padding:20px;
   margin-top:20px;
-  color:#ffffff;
+  color:#fcfcfc;
   background-color:#e8491d;
   text-align: center;
 }
