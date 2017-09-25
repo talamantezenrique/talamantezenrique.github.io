@@ -36,8 +36,8 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
-  color:#99373d;
+  background:#000000;
+  color:#000000;
   padding-top:30px;
   min-height:70px;
   border-bottom:#e8491d 3px solid;
@@ -95,6 +95,7 @@ header a:hover{
 
 #showcase p{
   font-size:20px;
+  color:#000000;
 }
 
 /* Newsletter */
